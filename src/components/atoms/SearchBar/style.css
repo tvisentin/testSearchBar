@@ -1,0 +1,21 @@
+.search-bar {
+  display: flex;
+  align-items: center;
+}
+
+.search-bar__input {
+  max-width: 300px;
+  width: 100%;
+  padding: 1rem 2rem 1rem 1rem;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  outline: none;
+}
+
+.search-bar__input:hover,.search-bar__input:focus,.search-bar__input:active {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.search-bar__logo {
+  margin: -1.75rem;
+}
