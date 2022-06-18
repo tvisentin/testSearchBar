@@ -1,0 +1,11 @@
+.product-row__logo {
+  background-color: gainsboro;
+  padding: 0.5rem;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 0.75rem;
+}
+
+.product-row__text {
+  padding-left: 0.5rem;
+}
